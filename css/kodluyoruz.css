@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+    font-family:'Grape Nuts', cursive;;
+}
+
+h1{
+    color: rgb(204, 74, 27);
+}
+
+h2{
+    color: green;
+}
+
+p{
+    font-style:italic ;
+}
+
+.firstDiv {
+    border: 7px outset gold;
+    background-color: rgb(192, 108, 192);
+    text-align: center;
+  }
